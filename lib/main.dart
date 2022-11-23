@@ -32,6 +32,7 @@ class QualityWeb extends StatelessWidget {
       builder: DevicePreview.appBuilder, // Add the builder here
 
       debugShowCheckedModeBanner: false,
+      title: "كوالتي لصيانة الاجهزة الرياضية و المشايات",
       theme: ThemeData(
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
