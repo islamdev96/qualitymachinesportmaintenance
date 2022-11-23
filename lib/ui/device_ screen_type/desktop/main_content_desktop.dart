@@ -11,6 +11,7 @@ import '../../../widgets/new/column_text.dart';
 import '../../../widgets/new/icons_and_text_widget.dart';
 import '../../../widgets/new/social_media.dart';
 import '../../../widgets/widget_desktop/column_text_desktop.dart';
+import 'carousel_slider_desktop.dart';
 
 class MainContentDesktop extends StatelessWidget {
   @override
@@ -41,6 +42,10 @@ class MainContentDesktop extends StatelessWidget {
                 SizedBox(
                   height: size.height * 0.3,
                 ),
+                // const CarouselSliderDesktop(),
+                // SizedBox(
+                //   height: size.height * 0.5,
+                // ),
                 SizedBox(
                   height: size.height * 0.3,
                   child: const ColumnTextDesktop(
