@@ -245,7 +245,7 @@ class AllProject extends StatelessWidget {
                         'https://play.google.com/store/apps/developer?id=ISLAM+SAYED');
                   },
                   child: const Text(
-                    'ISLAM GLAB',
+                    'ISLAM ❤️ GLAB',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 18,
