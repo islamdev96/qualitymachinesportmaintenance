@@ -1,11 +1,11 @@
 {
-  "name": "quality_sport",
-  "short_name": "quality_sport",
+  "name": "كوالتي لصيانة الاجهزة الرياضية و المشايات",
+  "short_name":"كوالتي لصيانة الاجهزة الرياضية و المشايات",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#hexcode",
   "theme_color": "#hexcode",
-  "description": " صيانة الاجهزة الرياضية فى مصر",
+  "description": "كوالتي لصيانة الاجهزة الرياضية و المشايات",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [
