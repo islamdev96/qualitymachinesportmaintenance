@@ -1,6 +1,6 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
-import 'package:quality_sport/widgets/widget_nav_bar/text_button_logo.dart';
+import 'package:quality/widgets/widget_nav_bar/text_button_logo.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 
 import '../../ui/pages/home_page.dart';

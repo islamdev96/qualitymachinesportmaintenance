@@ -1,7 +1,7 @@
 // ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:quality_sport/widgets/new/elevated_button_widget.dart';
+import 'package:quality/widgets/new/elevated_button_widget.dart';
 
 import '../../ui/pages/home_page.dart';
 import '../widget_nav_bar/text_button_icon.dart';

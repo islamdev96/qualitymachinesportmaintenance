@@ -3,7 +3,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:quality_sport/ui/pages/home_page.dart';
+import 'package:quality/ui/pages/home_page.dart';
 
 void main() {
   runApp(
